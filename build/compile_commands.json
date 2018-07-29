@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nagesh/projects/opt_flow/build",
+  "command": "/usr/bin/c++    -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -o CMakeFiles/opt_flow.dir/main.cpp.o -c /home/nagesh/projects/opt_flow/main.cpp",
+  "file": "/home/nagesh/projects/opt_flow/main.cpp"
+}
+]
